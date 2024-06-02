@@ -1,0 +1,51 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.cnt-box
+{
+  
+   height: auto;
+   text-align: center;
+    
+}
+.img-box img
+{
+
+  margin-top: 50px;
+  
+}
+.navbar{
+  background-color: rgba(0, 0, 0, 0.517);
+  width: 100%;
+
+  
+}
+.avilabal
+{
+  border-radius: 30px;
+  margin-top: 40px;
+}
+.navbar ul 
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar ul li{
+  height: 50px;
+  width: 90px;
+  padding-top: 15px;
+  border-radius: 20px;
+  padding-left: 15px;
+  list-style: none;
+  color: white;
+  font-weight: 500;
+  margin: 10px;
+  line-height: 10px;
+  cursor: pointer;
+  border:  2px solid black;
+}
+
+
